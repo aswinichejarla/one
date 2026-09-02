@@ -68,7 +68,7 @@
             display: flex;
             align-items: center;
             justify-content: space-between;
-            gap: 16px;
+            gap: 17px;
             padding: 14px 0;
         }
 
