@@ -78,7 +78,7 @@
             gap: 12px;
             font-family: Poppins, sans-serif;
             font-weight: 700;
-            font-size: 20px;
+            font-size: 22px;
             color: var(--primary);
         }
 
